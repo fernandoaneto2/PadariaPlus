@@ -1,0 +1,69 @@
+.secao{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+.fundo-laranja{
+    background-color: orange;
+    
+}
+body{
+    background-color: rgb(255, 236, 213);
+}
+.texto-negrito{
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+.logo{
+    width: 180px;
+}
+.produtos{
+    width: 700px;
+}
+.paes{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+.bolos{
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
+a{
+    color: rgb(141, 92, 0);
+
+}
+h1{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-top: 1px solid rgb(255, 189, 108);
+    margin-top: 20px;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 10px;
+    color: orange;
+
+}
+h3{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+    padding: 20px auto;
+
+}
+h4{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 25px;
+
+
+}
+
